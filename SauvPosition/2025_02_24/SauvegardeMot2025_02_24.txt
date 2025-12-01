@@ -1,0 +1,8349 @@
+Shoot number : 2332 done the 2025/02/24 @ 11:58:12
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2333 done the 2025/02/24 @ 11:59:30
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2334 done the 2025/02/24 @ 12:00:03
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2335 done the 2025/02/24 @ 12:00:27
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2336 done the 2025/02/24 @ 12:00:48
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2337 done the 2025/02/24 @ 12:01:07
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2338 done the 2025/02/24 @ 12:01:33
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2339 done the 2025/02/24 @ 12:01:56
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2340 done the 2025/02/24 @ 12:02:20
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2341 done the 2025/02/24 @ 12:02:40
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2342 done the 2025/02/24 @ 12:03:15
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2343 done the 2025/02/24 @ 12:03:34
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2344 done the 2025/02/24 @ 12:03:56
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2345 done the 2025/02/24 @ 12:04:16
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2346 done the 2025/02/24 @ 12:04:40
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2347 done the 2025/02/24 @ 12:04:53
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2348 done the 2025/02/24 @ 12:05:14
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2349 done the 2025/02/24 @ 12:05:31
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2350 done the 2025/02/24 @ 12:05:48
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2351 done the 2025/02/24 @ 12:06:07
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2352 done the 2025/02/24 @ 12:06:33
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2353 done the 2025/02/24 @ 12:06:50
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2354 done the 2025/02/24 @ 12:07:35
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2355 done the 2025/02/24 @ 12:08:01
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2356 done the 2025/02/24 @ 12:08:28
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2357 done the 2025/02/24 @ 12:08:49
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2358 done the 2025/02/24 @ 12:09:25
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2359 done the 2025/02/24 @ 12:09:44
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2360 done the 2025/02/24 @ 12:10:07
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2361 done the 2025/02/24 @ 12:10:25
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2362 done the 2025/02/24 @ 12:10:51
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2363 done the 2025/02/24 @ 12:11:05
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2364 done the 2025/02/24 @ 12:11:20
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2365 done the 2025/02/24 @ 12:11:36
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2366 done the 2025/02/24 @ 12:11:51
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2367 done the 2025/02/24 @ 12:12:13
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2368 done the 2025/02/24 @ 12:12:29
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2369 done the 2025/02/24 @ 12:14:12
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2370 done the 2025/02/24 @ 12:14:44
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2371 done the 2025/02/24 @ 12:15:04
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2372 done the 2025/02/24 @ 12:15:28
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2373 done the 2025/02/24 @ 12:16:00
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2374 done the 2025/02/24 @ 12:17:09
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2375 done the 2025/02/24 @ 12:17:30
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2376 done the 2025/02/24 @ 12:17:55
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2377 done the 2025/02/24 @ 12:18:21
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2378 done the 2025/02/24 @ 12:18:42
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2379 done the 2025/02/24 @ 12:19:44
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2380 done the 2025/02/24 @ 12:20:18
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2381 done the 2025/02/24 @ 12:20:37
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2382 done the 2025/02/24 @ 12:20:57
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2383 done the 2025/02/24 @ 12:21:23
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2384 done the 2025/02/24 @ 12:21:52
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2385 done the 2025/02/24 @ 12:22:14
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2386 done the 2025/02/24 @ 12:23:12
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2387 done the 2025/02/24 @ 12:26:11
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2388 done the 2025/02/24 @ 12:27:00
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2389 done the 2025/02/24 @ 12:28:21
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2390 done the 2025/02/24 @ 12:28:47
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2391 done the 2025/02/24 @ 14:05:01
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2392 done the 2025/02/24 @ 14:05:59
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2393 done the 2025/02/24 @ 14:06:10
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2394 done the 2025/02/24 @ 14:06:28
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2395 done the 2025/02/24 @ 14:07:21
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2396 done the 2025/02/24 @ 14:07:40
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2397 done the 2025/02/24 @ 14:08:08
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2398 done the 2025/02/24 @ 14:10:09
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2399 done the 2025/02/24 @ 14:12:19
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2400 done the 2025/02/24 @ 14:12:34
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2401 done the 2025/02/24 @ 14:12:46
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2402 done the 2025/02/24 @ 14:12:59
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2403 done the 2025/02/24 @ 14:14:57
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2404 done the 2025/02/24 @ 14:15:10
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2405 done the 2025/02/24 @ 14:15:20
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2406 done the 2025/02/24 @ 14:15:35
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2407 done the 2025/02/24 @ 14:16:07
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2408 done the 2025/02/24 @ 14:26:41
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2409 done the 2025/02/24 @ 14:27:13
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2410 done the 2025/02/24 @ 14:27:41
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2411 done the 2025/02/24 @ 14:27:52
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2412 done the 2025/02/24 @ 14:28:26
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2413 done the 2025/02/24 @ 14:28:33
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2414 done the 2025/02/24 @ 14:29:39
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2415 done the 2025/02/24 @ 14:29:58
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2416 done the 2025/02/24 @ 14:34:07
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2417 done the 2025/02/24 @ 14:35:21
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2418 done the 2025/02/24 @ 14:38:27
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2419 done the 2025/02/24 @ 14:39:03
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2420 done the 2025/02/24 @ 14:40:59
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2421 done the 2025/02/24 @ 14:41:34
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2422 done the 2025/02/24 @ 14:57:17
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2423 done the 2025/02/24 @ 14:57:35
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2424 done the 2025/02/24 @ 15:02:55
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2425 done the 2025/02/24 @ 15:07:13
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2426 done the 2025/02/24 @ 15:12:16
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2427 done the 2025/02/24 @ 15:16:58
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2428 done the 2025/02/24 @ 15:21:20
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2429 done the 2025/02/24 @ 15:22:50
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2430 done the 2025/02/24 @ 15:24:14
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2431 done the 2025/02/24 @ 15:24:27
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2432 done the 2025/02/24 @ 15:24:47
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2433 done the 2025/02/24 @ 15:25:48
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2434 done the 2025/02/24 @ 15:26:26
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2435 done the 2025/02/24 @ 15:27:07
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2436 done the 2025/02/24 @ 15:27:52
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2437 done the 2025/02/24 @ 15:28:29
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2438 done the 2025/02/24 @ 15:28:50
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2439 done the 2025/02/24 @ 15:29:14
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2440 done the 2025/02/24 @ 15:29:31
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2441 done the 2025/02/24 @ 15:30:26
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2442 done the 2025/02/24 @ 15:30:48
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2443 done the 2025/02/24 @ 15:31:19
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2444 done the 2025/02/24 @ 15:31:28
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2445 done the 2025/02/24 @ 15:31:58
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2446 done the 2025/02/24 @ 15:32:22
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2447 done the 2025/02/24 @ 15:32:56
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2448 done the 2025/02/24 @ 15:33:13
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2449 done the 2025/02/24 @ 15:33:27
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2450 done the 2025/02/24 @ 15:33:39
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2451 done the 2025/02/24 @ 15:34:03
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2452 done the 2025/02/24 @ 15:34:18
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2453 done the 2025/02/24 @ 15:34:30
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2454 done the 2025/02/24 @ 15:34:41
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2455 done the 2025/02/24 @ 15:35:00
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2456 done the 2025/02/24 @ 15:35:16
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2457 done the 2025/02/24 @ 15:35:26
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2458 done the 2025/02/24 @ 15:35:37
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2459 done the 2025/02/24 @ 15:36:15
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2460 done the 2025/02/24 @ 15:36:33
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2461 done the 2025/02/24 @ 15:36:47
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2462 done the 2025/02/24 @ 15:37:01
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2463 done the 2025/02/24 @ 15:37:30
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2464 done the 2025/02/24 @ 15:37:47
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2465 done the 2025/02/24 @ 15:38:00
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2466 done the 2025/02/24 @ 15:38:12
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2467 done the 2025/02/24 @ 15:39:28
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2468 done the 2025/02/24 @ 15:39:50
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2469 done the 2025/02/24 @ 15:40:18
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2470 done the 2025/02/24 @ 15:40:31
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2471 done the 2025/02/24 @ 15:40:53
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2472 done the 2025/02/24 @ 15:41:21
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2473 done the 2025/02/24 @ 15:41:36
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2474 done the 2025/02/24 @ 15:42:06
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2475 done the 2025/02/24 @ 15:42:20
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2476 done the 2025/02/24 @ 15:42:45
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2477 done the 2025/02/24 @ 15:43:15
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2478 done the 2025/02/24 @ 15:43:47
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2479 done the 2025/02/24 @ 15:44:13
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2480 done the 2025/02/24 @ 15:44:37
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2481 done the 2025/02/24 @ 15:44:52
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2482 done the 2025/02/24 @ 15:46:02
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2483 done the 2025/02/24 @ 15:46:37
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2484 done the 2025/02/24 @ 15:47:38
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2485 done the 2025/02/24 @ 15:47:56
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2486 done the 2025/02/24 @ 15:48:42
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2487 done the 2025/02/24 @ 15:49:00
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2488 done the 2025/02/24 @ 15:49:38
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2489 done the 2025/02/24 @ 15:49:52
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2490 done the 2025/02/24 @ 15:50:13
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2491 done the 2025/02/24 @ 15:50:31
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2492 done the 2025/02/24 @ 15:50:46
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2493 done the 2025/02/24 @ 15:51:01
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2494 done the 2025/02/24 @ 15:51:19
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2495 done the 2025/02/24 @ 15:51:59
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2496 done the 2025/02/24 @ 15:52:14
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2497 done the 2025/02/24 @ 15:52:40
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2498 done the 2025/02/24 @ 15:52:55
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2499 done the 2025/02/24 @ 15:53:12
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2500 done the 2025/02/24 @ 15:53:27
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2501 done the 2025/02/24 @ 15:53:58
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2502 done the 2025/02/24 @ 15:54:11
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2503 done the 2025/02/24 @ 15:54:43
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2504 done the 2025/02/24 @ 15:55:00
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2505 done the 2025/02/24 @ 15:55:13
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2506 done the 2025/02/24 @ 15:55:26
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2507 done the 2025/02/24 @ 15:55:39
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2508 done the 2025/02/24 @ 15:55:55
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2509 done the 2025/02/24 @ 15:56:48
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2510 done the 2025/02/24 @ 15:57:00
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2511 done the 2025/02/24 @ 15:57:33
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2512 done the 2025/02/24 @ 15:58:12
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2513 done the 2025/02/24 @ 15:58:27
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2514 done the 2025/02/24 @ 15:58:41
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2515 done the 2025/02/24 @ 15:59:03
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2516 done the 2025/02/24 @ 15:59:22
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2517 done the 2025/02/24 @ 15:59:41
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2518 done the 2025/02/24 @ 15:59:57
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2519 done the 2025/02/24 @ 16:00:20
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2520 done the 2025/02/24 @ 16:00:38
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2521 done the 2025/02/24 @ 16:00:53
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2522 done the 2025/02/24 @ 16:01:19
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2523 done the 2025/02/24 @ 16:01:35
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2524 done the 2025/02/24 @ 16:01:56
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2525 done the 2025/02/24 @ 16:02:15
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2526 done the 2025/02/24 @ 16:02:29
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2527 done the 2025/02/24 @ 16:02:44
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2528 done the 2025/02/24 @ 16:03:06
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2529 done the 2025/02/24 @ 16:03:19
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2530 done the 2025/02/24 @ 16:03:38
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2531 done the 2025/02/24 @ 16:03:59
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2532 done the 2025/02/24 @ 16:04:12
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2533 done the 2025/02/24 @ 16:04:24
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2534 done the 2025/02/24 @ 16:04:38
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2535 done the 2025/02/24 @ 16:05:05
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2536 done the 2025/02/24 @ 16:05:21
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2537 done the 2025/02/24 @ 16:05:36
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2538 done the 2025/02/24 @ 16:05:50
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2539 done the 2025/02/24 @ 16:06:28
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2540 done the 2025/02/24 @ 16:06:43
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2541 done the 2025/02/24 @ 16:06:58
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2542 done the 2025/02/24 @ 16:07:13
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2543 done the 2025/02/24 @ 16:07:39
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2544 done the 2025/02/24 @ 16:07:54
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2545 done the 2025/02/24 @ 16:08:07
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2546 done the 2025/02/24 @ 16:08:47
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2547 done the 2025/02/24 @ 16:09:22
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2548 done the 2025/02/24 @ 16:09:39
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2549 done the 2025/02/24 @ 16:10:07
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2550 done the 2025/02/24 @ 16:10:22
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2551 done the 2025/02/24 @ 16:11:12
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2552 done the 2025/02/24 @ 16:11:48
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2553 done the 2025/02/24 @ 16:12:17
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2554 done the 2025/02/24 @ 16:12:30
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2555 done the 2025/02/24 @ 16:12:46
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2556 done the 2025/02/24 @ 16:13:01
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2557 done the 2025/02/24 @ 16:13:43
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2558 done the 2025/02/24 @ 16:13:56
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2559 done the 2025/02/24 @ 16:14:08
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2560 done the 2025/02/24 @ 16:14:21
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2561 done the 2025/02/24 @ 16:14:49
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2562 done the 2025/02/24 @ 16:15:02
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2563 done the 2025/02/24 @ 16:15:16
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2564 done the 2025/02/24 @ 16:15:34
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2565 done the 2025/02/24 @ 16:15:43
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2566 done the 2025/02/24 @ 16:16:04
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2567 done the 2025/02/24 @ 16:16:32
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2568 done the 2025/02/24 @ 16:17:11
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2569 done the 2025/02/24 @ 16:17:26
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2570 done the 2025/02/24 @ 16:17:45
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2571 done the 2025/02/24 @ 16:17:54
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2572 done the 2025/02/24 @ 16:18:09
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2573 done the 2025/02/24 @ 16:18:27
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2574 done the 2025/02/24 @ 16:18:42
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2575 done the 2025/02/24 @ 16:18:54
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2576 done the 2025/02/24 @ 16:19:07
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2577 done the 2025/02/24 @ 16:19:37
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2578 done the 2025/02/24 @ 16:19:48
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2579 done the 2025/02/24 @ 16:20:00
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2580 done the 2025/02/24 @ 16:20:12
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2581 done the 2025/02/24 @ 16:20:33
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2582 done the 2025/02/24 @ 16:20:46
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2583 done the 2025/02/24 @ 16:20:58
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2584 done the 2025/02/24 @ 16:21:11
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2585 done the 2025/02/24 @ 16:21:28
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2586 done the 2025/02/24 @ 16:21:41
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2587 done the 2025/02/24 @ 16:21:53
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2588 done the 2025/02/24 @ 16:22:07
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2589 done the 2025/02/24 @ 16:22:39
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2590 done the 2025/02/24 @ 16:22:49
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2591 done the 2025/02/24 @ 16:23:00
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2592 done the 2025/02/24 @ 16:24:45
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2593 done the 2025/02/24 @ 16:24:57
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2594 done the 2025/02/24 @ 16:25:11
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2595 done the 2025/02/24 @ 16:25:26
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2596 done the 2025/02/24 @ 16:26:42
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2597 done the 2025/02/24 @ 16:26:55
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2598 done the 2025/02/24 @ 16:27:24
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2599 done the 2025/02/24 @ 16:27:36
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2600 done the 2025/02/24 @ 16:27:50
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2601 done the 2025/02/24 @ 16:28:03
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2602 done the 2025/02/24 @ 17:21:32
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2603 done the 2025/02/24 @ 17:22:17
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2604 done the 2025/02/24 @ 17:23:21
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2605 done the 2025/02/24 @ 17:23:35
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2606 done the 2025/02/24 @ 17:23:51
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2607 done the 2025/02/24 @ 17:24:14
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2608 done the 2025/02/24 @ 17:24:33
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2609 done the 2025/02/24 @ 17:24:58
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2610 done the 2025/02/24 @ 17:25:19
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2611 done the 2025/02/24 @ 17:25:36
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2612 done the 2025/02/24 @ 17:26:55
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2613 done the 2025/02/24 @ 17:27:21
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2614 done the 2025/02/24 @ 17:27:40
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2615 done the 2025/02/24 @ 17:28:51
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2616 done the 2025/02/24 @ 17:29:47
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2617 done the 2025/02/24 @ 17:30:10
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2618 done the 2025/02/24 @ 17:30:38
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2619 done the 2025/02/24 @ 17:31:06
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2620 done the 2025/02/24 @ 17:31:26
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2621 done the 2025/02/24 @ 17:31:41
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2622 done the 2025/02/24 @ 17:32:06
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2623 done the 2025/02/24 @ 17:32:36
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2624 done the 2025/02/24 @ 17:33:02
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2625 done the 2025/02/24 @ 17:33:27
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2626 done the 2025/02/24 @ 18:25:43
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2627 done the 2025/02/24 @ 18:27:03
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2628 done the 2025/02/24 @ 18:27:33
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2629 done the 2025/02/24 @ 18:27:48
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2630 done the 2025/02/24 @ 18:28:08
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2631 done the 2025/02/24 @ 18:28:27
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2632 done the 2025/02/24 @ 18:28:41
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2633 done the 2025/02/24 @ 18:28:59
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2634 done the 2025/02/24 @ 18:29:17
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2635 done the 2025/02/24 @ 18:29:40
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2636 done the 2025/02/24 @ 18:29:54
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2637 done the 2025/02/24 @ 18:30:09
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2638 done the 2025/02/24 @ 18:30:33
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2639 done the 2025/02/24 @ 18:30:51
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2640 done the 2025/02/24 @ 18:31:11
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2641 done the 2025/02/24 @ 18:31:31
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2642 done the 2025/02/24 @ 18:31:59
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2643 done the 2025/02/24 @ 18:32:36
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2644 done the 2025/02/24 @ 18:33:02
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2645 done the 2025/02/24 @ 18:33:18
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2646 done the 2025/02/24 @ 18:33:46
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2647 done the 2025/02/24 @ 18:34:01
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2648 done the 2025/02/24 @ 18:34:16
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2649 done the 2025/02/24 @ 18:35:26
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2650 done the 2025/02/24 @ 18:35:47
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2651 done the 2025/02/24 @ 18:36:10
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2652 done the 2025/02/24 @ 18:36:57
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2653 done the 2025/02/24 @ 18:37:56
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2654 done the 2025/02/24 @ 18:38:32
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2655 done the 2025/02/24 @ 18:39:03
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2656 done the 2025/02/24 @ 18:40:26
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2657 done the 2025/02/24 @ 18:40:56
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2658 done the 2025/02/24 @ 18:41:16
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2659 done the 2025/02/24 @ 18:41:37
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2660 done the 2025/02/24 @ 18:42:02
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2661 done the 2025/02/24 @ 18:42:31
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2662 done the 2025/02/24 @ 18:43:07
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2663 done the 2025/02/24 @ 18:43:27
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2664 done the 2025/02/24 @ 18:44:43
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2665 done the 2025/02/24 @ 18:45:01
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2666 done the 2025/02/24 @ 18:46:25
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2667 done the 2025/02/24 @ 18:47:41
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2668 done the 2025/02/24 @ 18:49:14
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2669 done the 2025/02/24 @ 18:49:34
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2670 done the 2025/02/24 @ 18:50:49
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2671 done the 2025/02/24 @ 18:51:56
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2672 done the 2025/02/24 @ 18:54:32
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2673 done the 2025/02/24 @ 18:54:59
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2674 done the 2025/02/24 @ 18:55:26
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2675 done the 2025/02/24 @ 18:55:52
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2676 done the 2025/02/24 @ 18:56:12
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2677 done the 2025/02/24 @ 18:56:40
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2678 done the 2025/02/24 @ 18:56:58
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2679 done the 2025/02/24 @ 18:58:07
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2680 done the 2025/02/24 @ 18:58:33
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2681 done the 2025/02/24 @ 18:59:57
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2682 done the 2025/02/24 @ 19:00:32
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2683 done the 2025/02/24 @ 19:01:29
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2684 done the 2025/02/24 @ 19:01:45
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2685 done the 2025/02/24 @ 19:02:04
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2686 done the 2025/02/24 @ 19:02:21
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2687 done the 2025/02/24 @ 19:02:43
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2688 done the 2025/02/24 @ 19:03:14
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2689 done the 2025/02/24 @ 19:03:37
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2690 done the 2025/02/24 @ 19:14:38
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2691 done the 2025/02/24 @ 19:16:02
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2692 done the 2025/02/24 @ 19:16:32
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2693 done the 2025/02/24 @ 19:17:04
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2694 done the 2025/02/24 @ 19:18:10
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2695 done the 2025/02/24 @ 19:18:35
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2696 done the 2025/02/24 @ 19:18:55
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2697 done the 2025/02/24 @ 19:19:15
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2698 done the 2025/02/24 @ 19:19:55
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2699 done the 2025/02/24 @ 19:20:39
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2700 done the 2025/02/24 @ 19:20:54
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2701 done the 2025/02/24 @ 19:21:10
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2702 done the 2025/02/24 @ 19:21:27
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2703 done the 2025/02/24 @ 19:21:52
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2704 done the 2025/02/24 @ 19:22:11
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2705 done the 2025/02/24 @ 19:22:26
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2706 done the 2025/02/24 @ 19:23:03
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2707 done the 2025/02/24 @ 19:26:39
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2708 done the 2025/02/24 @ 19:27:12
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2709 done the 2025/02/24 @ 19:27:57
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2710 done the 2025/02/24 @ 19:28:34
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2711 done the 2025/02/24 @ 19:29:04
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2712 done the 2025/02/24 @ 19:29:54
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2713 done the 2025/02/24 @ 19:30:39
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2714 done the 2025/02/24 @ 19:32:09
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2715 done the 2025/02/24 @ 19:32:38
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2716 done the 2025/02/24 @ 19:33:05
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2717 done the 2025/02/24 @ 19:33:35
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2718 done the 2025/02/24 @ 19:34:14
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2719 done the 2025/02/24 @ 19:34:44
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2720 done the 2025/02/24 @ 19:36:33
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2721 done the 2025/02/24 @ 19:37:40
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2722 done the 2025/02/24 @ 19:38:18
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2723 done the 2025/02/24 @ 19:38:49
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2724 done the 2025/02/24 @ 19:39:13
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2725 done the 2025/02/24 @ 19:39:46
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2726 done the 2025/02/24 @ 19:40:33
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2727 done the 2025/02/24 @ 19:41:13
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2728 done the 2025/02/24 @ 19:42:28
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2729 done the 2025/02/24 @ 19:43:16
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2730 done the 2025/02/24 @ 19:43:49
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2731 done the 2025/02/24 @ 19:44:15
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2732 done the 2025/02/24 @ 19:44:36
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2733 done the 2025/02/24 @ 19:45:07
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2734 done the 2025/02/24 @ 19:45:48
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2735 done the 2025/02/24 @ 19:47:20
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2736 done the 2025/02/24 @ 19:48:07
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2737 done the 2025/02/24 @ 19:48:35
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2738 done the 2025/02/24 @ 19:48:56
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2739 done the 2025/02/24 @ 19:49:21
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2740 done the 2025/02/24 @ 19:50:31
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2741 done the 2025/02/24 @ 19:50:59
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2742 done the 2025/02/24 @ 19:51:38
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2743 done the 2025/02/24 @ 19:52:14
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2744 done the 2025/02/24 @ 19:54:19
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2745 done the 2025/02/24 @ 19:54:56
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2746 done the 2025/02/24 @ 19:55:16
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2747 done the 2025/02/24 @ 19:55:34
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2748 done the 2025/02/24 @ 19:55:51
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2749 done the 2025/02/24 @ 19:56:08
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2750 done the 2025/02/24 @ 19:56:30
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2751 done the 2025/02/24 @ 19:56:48
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2752 done the 2025/02/24 @ 19:57:53
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2753 done the 2025/02/24 @ 19:58:22
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2754 done the 2025/02/24 @ 19:58:40
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2755 done the 2025/02/24 @ 19:59:11
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2756 done the 2025/02/24 @ 19:59:37
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2757 done the 2025/02/24 @ 20:00:28
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2758 done the 2025/02/24 @ 20:03:34
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2759 done the 2025/02/24 @ 20:04:01
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2760 done the 2025/02/24 @ 20:04:25
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2761 done the 2025/02/24 @ 20:04:38
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2762 done the 2025/02/24 @ 20:04:57
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2763 done the 2025/02/24 @ 20:05:18
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2764 done the 2025/02/24 @ 20:05:40
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2765 done the 2025/02/24 @ 20:06:04
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2766 done the 2025/02/24 @ 20:06:26
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2767 done the 2025/02/24 @ 20:06:46
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2768 done the 2025/02/24 @ 20:07:05
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2769 done the 2025/02/24 @ 20:07:24
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2770 done the 2025/02/24 @ 20:07:41
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2771 done the 2025/02/24 @ 20:08:02
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2772 done the 2025/02/24 @ 20:08:20
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2773 done the 2025/02/24 @ 20:08:41
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2774 done the 2025/02/24 @ 20:09:03
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2775 done the 2025/02/24 @ 20:09:29
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2776 done the 2025/02/24 @ 20:09:50
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2777 done the 2025/02/24 @ 20:10:10
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2778 done the 2025/02/24 @ 20:10:34
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2779 done the 2025/02/24 @ 20:10:52
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2780 done the 2025/02/24 @ 20:11:13
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2781 done the 2025/02/24 @ 20:11:31
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2782 done the 2025/02/24 @ 20:11:48
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2783 done the 2025/02/24 @ 20:12:13
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2784 done the 2025/02/24 @ 20:12:35
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2785 done the 2025/02/24 @ 20:12:52
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2786 done the 2025/02/24 @ 20:13:06
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2787 done the 2025/02/24 @ 20:13:25
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2788 done the 2025/02/24 @ 20:13:44
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2789 done the 2025/02/24 @ 20:14:03
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2790 done the 2025/02/24 @ 20:14:20
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2791 done the 2025/02/24 @ 20:14:49
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2792 done the 2025/02/24 @ 20:15:08
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2793 done the 2025/02/24 @ 21:19:26
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2794 done the 2025/02/24 @ 21:20:02
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2795 done the 2025/02/24 @ 21:20:47
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2796 done the 2025/02/24 @ 21:21:14
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2797 done the 2025/02/24 @ 21:21:40
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2798 done the 2025/02/24 @ 21:22:05
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2799 done the 2025/02/24 @ 21:22:37
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2800 done the 2025/02/24 @ 21:23:26
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2801 done the 2025/02/24 @ 21:24:04
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2802 done the 2025/02/24 @ 21:24:46
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2803 done the 2025/02/24 @ 21:25:44
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2804 done the 2025/02/24 @ 21:26:00
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2805 done the 2025/02/24 @ 21:26:15
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2806 done the 2025/02/24 @ 21:26:40
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2807 done the 2025/02/24 @ 21:26:58
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2808 done the 2025/02/24 @ 21:27:12
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2809 done the 2025/02/24 @ 21:27:36
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2810 done the 2025/02/24 @ 21:27:52
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2811 done the 2025/02/24 @ 21:28:15
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2812 done the 2025/02/24 @ 21:28:37
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2813 done the 2025/02/24 @ 21:28:54
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2814 done the 2025/02/24 @ 21:29:15
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2815 done the 2025/02/24 @ 21:29:34
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2816 done the 2025/02/24 @ 21:29:47
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2817 done the 2025/02/24 @ 21:30:01
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2818 done the 2025/02/24 @ 21:30:14
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2819 done the 2025/02/24 @ 21:30:33
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2820 done the 2025/02/24 @ 21:30:59
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2821 done the 2025/02/24 @ 21:31:15
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2822 done the 2025/02/24 @ 21:31:32
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2823 done the 2025/02/24 @ 21:31:44
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2824 done the 2025/02/24 @ 21:32:07
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2825 done the 2025/02/24 @ 21:32:22
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2826 done the 2025/02/24 @ 21:32:36
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2827 done the 2025/02/24 @ 21:33:06
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2828 done the 2025/02/24 @ 21:33:21
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2829 done the 2025/02/24 @ 21:33:34
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2830 done the 2025/02/24 @ 21:33:48
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2831 done the 2025/02/24 @ 21:34:04
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2832 done the 2025/02/24 @ 21:34:27
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2833 done the 2025/02/24 @ 21:34:47
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2834 done the 2025/02/24 @ 21:35:02
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2835 done the 2025/02/24 @ 21:35:24
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2836 done the 2025/02/24 @ 21:35:47
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2837 done the 2025/02/24 @ 21:36:23
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2838 done the 2025/02/24 @ 21:37:00
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2839 done the 2025/02/24 @ 21:37:20
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2840 done the 2025/02/24 @ 21:37:40
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2841 done the 2025/02/24 @ 21:38:17
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2842 done the 2025/02/24 @ 21:38:34
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2843 done the 2025/02/24 @ 21:39:24
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2844 done the 2025/02/24 @ 21:41:03
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2845 done the 2025/02/24 @ 21:44:12
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2846 done the 2025/02/24 @ 21:44:41
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2847 done the 2025/02/24 @ 21:45:00
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2848 done the 2025/02/24 @ 21:45:17
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2849 done the 2025/02/24 @ 21:45:38
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2850 done the 2025/02/24 @ 21:46:06
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2851 done the 2025/02/24 @ 21:46:28
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2852 done the 2025/02/24 @ 21:46:44
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2853 done the 2025/02/24 @ 21:47:07
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2854 done the 2025/02/24 @ 21:47:28
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2855 done the 2025/02/24 @ 21:48:07
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2856 done the 2025/02/24 @ 21:48:32
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2857 done the 2025/02/24 @ 21:48:51
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2858 done the 2025/02/24 @ 21:49:11
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2859 done the 2025/02/24 @ 21:49:52
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2860 done the 2025/02/24 @ 21:52:52
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2861 done the 2025/02/24 @ 21:53:23
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2862 done the 2025/02/24 @ 21:53:50
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2863 done the 2025/02/24 @ 21:54:22
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2864 done the 2025/02/24 @ 21:54:38
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2865 done the 2025/02/24 @ 21:54:59
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2866 done the 2025/02/24 @ 21:55:33
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2867 done the 2025/02/24 @ 21:56:24
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2868 done the 2025/02/24 @ 21:56:45
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2869 done the 2025/02/24 @ 21:57:18
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2870 done the 2025/02/24 @ 21:57:46
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2871 done the 2025/02/24 @ 21:58:09
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2872 done the 2025/02/24 @ 21:58:32
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2873 done the 2025/02/24 @ 21:58:53
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2874 done the 2025/02/24 @ 21:59:17
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2875 done the 2025/02/24 @ 22:00:01
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2876 done the 2025/02/24 @ 22:00:23
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2877 done the 2025/02/24 @ 22:01:07
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2878 done the 2025/02/24 @ 22:01:41
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2879 done the 2025/02/24 @ 22:02:08
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2880 done the 2025/02/24 @ 22:02:33
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2881 done the 2025/02/24 @ 22:03:05
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2882 done the 2025/02/24 @ 22:03:23
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2883 done the 2025/02/24 @ 22:03:41
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2884 done the 2025/02/24 @ 22:04:04
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2885 done the 2025/02/24 @ 22:05:11
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2886 done the 2025/02/24 @ 22:05:42
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2887 done the 2025/02/24 @ 22:06:08
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2888 done the 2025/02/24 @ 22:06:49
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2889 done the 2025/02/24 @ 22:07:14
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2890 done the 2025/02/24 @ 22:07:31
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2891 done the 2025/02/24 @ 22:08:07
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2892 done the 2025/02/24 @ 22:08:43
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2893 done the 2025/02/24 @ 22:09:02
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2894 done the 2025/02/24 @ 22:09:20
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2895 done the 2025/02/24 @ 22:09:44
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2896 done the 2025/02/24 @ 22:10:09
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2897 done the 2025/02/24 @ 22:10:29
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2898 done the 2025/02/24 @ 22:10:54
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2899 done the 2025/02/24 @ 22:11:27
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2900 done the 2025/02/24 @ 22:11:42
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2901 done the 2025/02/24 @ 22:12:02
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2902 done the 2025/02/24 @ 22:12:28
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2903 done the 2025/02/24 @ 22:12:41
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2904 done the 2025/02/24 @ 22:13:13
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2905 done the 2025/02/24 @ 22:13:41
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2906 done the 2025/02/24 @ 22:13:57
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2907 done the 2025/02/24 @ 22:14:19
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2908 done the 2025/02/24 @ 22:14:43
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2909 done the 2025/02/24 @ 22:15:09
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2910 done the 2025/02/24 @ 22:15:46
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2911 done the 2025/02/24 @ 22:16:03
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2912 done the 2025/02/24 @ 22:16:19
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2913 done the 2025/02/24 @ 22:16:40
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2914 done the 2025/02/24 @ 22:17:02
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2915 done the 2025/02/24 @ 22:17:18
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2916 done the 2025/02/24 @ 22:17:38
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2917 done the 2025/02/24 @ 22:17:53
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2918 done the 2025/02/24 @ 22:18:11
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2919 done the 2025/02/24 @ 22:18:35
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2920 done the 2025/02/24 @ 22:18:50
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2921 done the 2025/02/24 @ 22:19:10
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2922 done the 2025/02/24 @ 22:19:33
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2923 done the 2025/02/24 @ 22:19:57
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2924 done the 2025/02/24 @ 22:20:23
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2925 done the 2025/02/24 @ 22:20:50
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2926 done the 2025/02/24 @ 22:21:10
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2927 done the 2025/02/24 @ 22:21:31
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2928 done the 2025/02/24 @ 22:30:08
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2929 done the 2025/02/24 @ 22:30:32
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2930 done the 2025/02/24 @ 22:30:53
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2931 done the 2025/02/24 @ 22:31:09
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2932 done the 2025/02/24 @ 22:31:27
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2933 done the 2025/02/24 @ 22:31:44
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2934 done the 2025/02/24 @ 22:32:08
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2935 done the 2025/02/24 @ 22:32:27
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2936 done the 2025/02/24 @ 22:32:44
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2937 done the 2025/02/24 @ 22:33:07
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2938 done the 2025/02/24 @ 22:33:24
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2939 done the 2025/02/24 @ 22:33:48
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2940 done the 2025/02/24 @ 22:34:05
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2941 done the 2025/02/24 @ 22:34:26
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2942 done the 2025/02/24 @ 22:34:44
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2943 done the 2025/02/24 @ 22:35:04
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2944 done the 2025/02/24 @ 22:35:19
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2945 done the 2025/02/24 @ 22:35:44
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2946 done the 2025/02/24 @ 22:36:06
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2947 done the 2025/02/24 @ 22:36:23
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2948 done the 2025/02/24 @ 22:36:40
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2949 done the 2025/02/24 @ 22:36:57
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2950 done the 2025/02/24 @ 22:37:14
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2951 done the 2025/02/24 @ 22:37:34
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2952 done the 2025/02/24 @ 22:37:54
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2953 done the 2025/02/24 @ 22:38:39
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2954 done the 2025/02/24 @ 22:39:00
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2955 done the 2025/02/24 @ 22:39:23
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2956 done the 2025/02/24 @ 22:39:40
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2957 done the 2025/02/24 @ 22:40:00
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2958 done the 2025/02/24 @ 22:40:36
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2959 done the 2025/02/24 @ 22:40:53
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2960 done the 2025/02/24 @ 22:41:12
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2961 done the 2025/02/24 @ 22:41:31
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2962 done the 2025/02/24 @ 22:41:55
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2963 done the 2025/02/24 @ 22:42:16
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2964 done the 2025/02/24 @ 22:42:36
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2965 done the 2025/02/24 @ 22:42:53
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2966 done the 2025/02/24 @ 22:43:12
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2967 done the 2025/02/24 @ 22:43:30
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2968 done the 2025/02/24 @ 22:50:55
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2969 done the 2025/02/24 @ 22:51:56
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2970 done the 2025/02/24 @ 22:52:15
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2971 done the 2025/02/24 @ 22:52:47
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2972 done the 2025/02/24 @ 22:53:22
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2973 done the 2025/02/24 @ 22:53:34
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2974 done the 2025/02/24 @ 22:53:53
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2975 done the 2025/02/24 @ 22:54:32
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2976 done the 2025/02/24 @ 22:55:29
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2977 done the 2025/02/24 @ 22:55:41
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2978 done the 2025/02/24 @ 22:56:27
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2979 done the 2025/02/24 @ 22:56:38
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2980 done the 2025/02/24 @ 22:57:04
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2981 done the 2025/02/24 @ 22:57:14
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2982 done the 2025/02/24 @ 22:57:42
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2983 done the 2025/02/24 @ 22:57:51
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2984 done the 2025/02/24 @ 22:58:45
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2985 done the 2025/02/24 @ 22:58:54
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2986 done the 2025/02/24 @ 22:59:22
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2987 done the 2025/02/24 @ 22:59:33
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2988 done the 2025/02/24 @ 23:00:04
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2989 done the 2025/02/24 @ 23:00:14
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2990 done the 2025/02/24 @ 23:00:43
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2991 done the 2025/02/24 @ 23:00:51
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2992 done the 2025/02/24 @ 23:01:33
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2993 done the 2025/02/24 @ 23:01:42
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2994 done the 2025/02/24 @ 23:02:43
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2995 done the 2025/02/24 @ 23:02:53
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2996 done the 2025/02/24 @ 23:03:58
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2997 done the 2025/02/24 @ 23:04:05
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2998 done the 2025/02/24 @ 23:04:35
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 2999 done the 2025/02/24 @ 23:04:42
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3000 done the 2025/02/24 @ 23:05:37
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3001 done the 2025/02/24 @ 23:05:46
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3002 done the 2025/02/24 @ 23:06:17
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3003 done the 2025/02/24 @ 23:06:25
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3004 done the 2025/02/24 @ 23:06:50
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3005 done the 2025/02/24 @ 23:06:57
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3006 done the 2025/02/24 @ 23:07:22
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3007 done the 2025/02/24 @ 23:07:29
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3008 done the 2025/02/24 @ 23:07:48
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3009 done the 2025/02/24 @ 23:07:56
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3010 done the 2025/02/24 @ 23:08:11
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3011 done the 2025/02/24 @ 23:08:20
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3012 done the 2025/02/24 @ 23:08:35
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3013 done the 2025/02/24 @ 23:08:46
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3014 done the 2025/02/24 @ 23:09:05
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3015 done the 2025/02/24 @ 23:09:15
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3016 done the 2025/02/24 @ 23:09:41
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3017 done the 2025/02/24 @ 23:09:50
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3018 done the 2025/02/24 @ 23:10:08
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3019 done the 2025/02/24 @ 23:10:15
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3020 done the 2025/02/24 @ 23:10:33
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3021 done the 2025/02/24 @ 23:10:40
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3022 done the 2025/02/24 @ 23:10:57
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3023 done the 2025/02/24 @ 23:11:04
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3024 done the 2025/02/24 @ 23:11:45
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3025 done the 2025/02/24 @ 23:11:53
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3026 done the 2025/02/24 @ 23:12:23
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3027 done the 2025/02/24 @ 23:12:32
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3028 done the 2025/02/24 @ 23:13:12
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3029 done the 2025/02/24 @ 23:13:58
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3030 done the 2025/02/24 @ 23:14:06
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3031 done the 2025/02/24 @ 23:14:25
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3032 done the 2025/02/24 @ 23:14:32
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3033 done the 2025/02/24 @ 23:14:57
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3034 done the 2025/02/24 @ 23:15:06
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3035 done the 2025/02/24 @ 23:15:32
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3036 done the 2025/02/24 @ 23:15:40
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3037 done the 2025/02/24 @ 23:16:08
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3038 done the 2025/02/24 @ 23:16:28
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3039 done the 2025/02/24 @ 23:16:36
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3040 done the 2025/02/24 @ 23:16:57
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3041 done the 2025/02/24 @ 23:17:05
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3042 done the 2025/02/24 @ 23:17:23
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3043 done the 2025/02/24 @ 23:17:31
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3044 done the 2025/02/24 @ 23:18:00
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3045 done the 2025/02/24 @ 23:18:10
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3046 done the 2025/02/24 @ 23:18:27
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3047 done the 2025/02/24 @ 23:18:35
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3048 done the 2025/02/24 @ 23:18:53
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3049 done the 2025/02/24 @ 23:19:00
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3050 done the 2025/02/24 @ 23:19:21
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3051 done the 2025/02/24 @ 23:19:28
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3052 done the 2025/02/24 @ 23:19:43
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3053 done the 2025/02/24 @ 23:19:51
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3054 done the 2025/02/24 @ 23:20:08
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3055 done the 2025/02/24 @ 23:20:18
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3056 done the 2025/02/24 @ 23:20:41
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3057 done the 2025/02/24 @ 23:20:49
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3058 done the 2025/02/24 @ 23:21:07
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3059 done the 2025/02/24 @ 23:21:15
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3060 done the 2025/02/24 @ 23:21:36
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3061 done the 2025/02/24 @ 23:21:45
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3062 done the 2025/02/24 @ 23:22:11
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3063 done the 2025/02/24 @ 23:22:44
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3064 done the 2025/02/24 @ 23:22:52
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3065 done the 2025/02/24 @ 23:25:21
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3066 done the 2025/02/24 @ 23:25:33
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3067 done the 2025/02/24 @ 23:25:51
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3068 done the 2025/02/24 @ 23:25:58
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3069 done the 2025/02/24 @ 23:26:13
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3070 done the 2025/02/24 @ 23:26:21
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3071 done the 2025/02/24 @ 23:26:43
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3072 done the 2025/02/24 @ 23:26:51
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3073 done the 2025/02/24 @ 23:27:10
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3074 done the 2025/02/24 @ 23:27:17
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3075 done the 2025/02/24 @ 23:27:34
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3076 done the 2025/02/24 @ 23:27:42
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3077 done the 2025/02/24 @ 23:28:16
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3078 done the 2025/02/24 @ 23:28:23
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3079 done the 2025/02/24 @ 23:28:38
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3080 done the 2025/02/24 @ 23:28:47
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3081 done the 2025/02/24 @ 23:29:05
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3082 done the 2025/02/24 @ 23:29:12
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3083 done the 2025/02/24 @ 23:29:36
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3084 done the 2025/02/24 @ 23:29:44
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3085 done the 2025/02/24 @ 23:30:20
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3086 done the 2025/02/24 @ 23:30:28
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3087 done the 2025/02/24 @ 23:31:12
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3088 done the 2025/02/24 @ 23:31:21
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3089 done the 2025/02/24 @ 23:31:59
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Shoot number : 3090 done the 2025/02/24 @ 23:32:07
+Position Motors :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
