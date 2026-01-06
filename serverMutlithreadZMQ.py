@@ -16,7 +16,7 @@ from PyQt6.QtWidgets import QApplication, QLineEdit, QFileDialog, QSpacerItem, Q
 from PyQt6.QtWidgets import QWidget, QVBoxLayout, QPushButton, QHBoxLayout, QLabel, QSpinBox, QCheckBox
 import pathlib
 import socket as _socket
-
+import h5py
 import time
 import sys
 import os
@@ -49,6 +49,7 @@ class SERVERGUI(QWidget):
         hostname = _socket.gethostname()
         self.IPAddr = _socket.gethostbyname(hostname)
         
+        #  connection base de données RSAI
         self.cursor = moteurRSAIFDB.con.cursor()
         self.listRack = moteurRSAIFDB.rEquipmentList()
         self.rackName = []
@@ -58,13 +59,15 @@ class SERVERGUI(QWidget):
         for IPadress in self.listRack:
             self.listMotor.append(moteurRSAIFDB.listMotorName(IPadress))
             print(IPadress)
+        
+
         self.setup()
         self.actionButton()
         self.setWindowTitle('Shot number Server ')
         self.icon = str(self.p.parent) + self.sepa + 'icons' + self.sepa
         self.setWindowIcon(QIcon(self.icon + 'LOA.png'))
         
-        # start server
+        # start server ZMQ
         self.ser = ZMQSERVER(self)
         self.ser.start()
 
@@ -80,7 +83,7 @@ class SERVERGUI(QWidget):
         self.daq.start()
 
         foldername = time.strftime("%Y_%m_%d")  # Save in a new folder with the time as namefile
-        filename = 'SauvegardeMot'+time.strftime("%Y_%m_%d")
+        filename = 'SauvegardeMot' + time.strftime("%Y_%m_%d")
         print('Backup motor position file created : ', foldername)
 
         pathAutoSave = str(self.p.parent)+self.sepa+'SauvPosition'
@@ -115,7 +118,7 @@ class SERVERGUI(QWidget):
         hbox0.addWidget(labelPort)
         vbox1.addLayout(hbox0)
         hbox2 = QHBoxLayout()
-        labelNbShoot = QLabel('Actual Shoot Number : ')
+        labelNbShoot = QLabel('Actual Shot Number : ')
         labelNbShoot.setStyleSheet('color : red;')
         labelNbShoot.setFont(QFont("Arial", 24))
         self.nbShoot = QSpinBox()
@@ -234,6 +237,41 @@ class SERVERGUI(QWidget):
         date = time.strftime("%Y/%m/%d @ %H:%M:%S")
         self.file.write('Shoot number : '+str(self.old_value) + ' done the ' + date + "\n")
         self.file.write("Position Motors :" + "\n")
+        # creer npm fichier hdf5
+        filenameMot = 'MotorsPosition_' + time.strftime("%Y_%m_%d")
+        fichierHDF5 = folderMot + self.sepa + filenameMot + '.hdf5'
+    
+        # Ouvrir/créer le fichier HDF5
+        with h5py.File(fichierHDF5, 'a') as hdf_file:
+            # Créer un groupe pour ce tir avec timestamp
+            timestamp = time.strftime("%Y/%m/%d @ %H:%M:%S")
+            group_name = f"Shoot_{self.old_value}_{time.strftime('%H%M%S')}"
+            shoot_group = hdf_file.create_group(group_name)
+            
+            # Sauvegarder les métadonnées
+            shoot_group.attrs['shoot_number'] = int(self.old_value)
+            shoot_group.attrs['timestamp'] = timestamp
+            shoot_group.attrs['date'] = time.strftime("%Y/%m/%d @ %H:%M:%S")
+            
+            # Sauvegarder les positions des moteurs hdf5 
+            for b in self.box:
+                if b.isChecked():
+                    listPosi, listNameMotor = self.allPosition(b.ip)
+                    
+                    # Créer un sous-groupe pour ce rack
+                    rack_name = moteurRSAIFDB.nameEquipment(b.ip)
+                    rack_group = shoot_group.create_group(f"Rack_{rack_name}")
+                    rack_group.attrs['ip'] = b.ip
+                    
+                    # Sauvegarder chaque moteur
+                    for i, (mot, pos) in enumerate(zip(listNameMotor, listPosi)):
+                        motor_dataset = rack_group.create_dataset(
+                            f"motor_{i}_{mot}", 
+                            data=pos
+                        )
+                        motor_dataset.attrs['name'] = mot
+                        motor_dataset.attrs['position'] = pos
+
         for b in self.box:
             if b.isChecked():
                 listPosi, listNameMotor = self.allPosition(b.ip)
@@ -294,6 +332,7 @@ class SERVERGUI(QWidget):
         self.ser.stopThread()
         moteurRSAIFDB.closeConnection()
         self.daq.stopThread()
+        self.serTCP.stopThread()
         time.sleep(2)
         event.accept()
 
@@ -315,9 +354,13 @@ class ZMQSERVER(QtCore.QThread):
         self.client_widget = {}
         self.isRunning = True
         
-        # Heartbeat settings
+        # Heartbeat settings : on envoie au client un heartbeat 
         self.heartbeat_interval = 5.0  # Envoyer heartbeat toutes les 5 secondes
         self.last_heartbeat = time.time()
+
+        # Suivi heratbeats clients
+        self.client_last_seen={}
+        self.client_timeout = 30
 
         # Create ZMQ context
         self.context = zmq.Context()
@@ -331,6 +374,7 @@ class ZMQSERVER(QtCore.QThread):
         self.sub_socket.bind(f"tcp://*:{self.sub_port}")
         self.sub_socket.setsockopt_string(zmq.SUBSCRIBE, "REGISTER")
         self.sub_socket.setsockopt_string(zmq.SUBSCRIBE, "UNREGISTER")
+        self.sub_socket.setsockopt_string(zmq.SUBSCRIBE,"CLIENT_HEARTBEAT")
         
         print(f'ZMQ PUB server ready on port {self.pub_port}')
         print(f'ZMQ SUB server ready on port {self.sub_port}')
@@ -360,6 +404,8 @@ class ZMQSERVER(QtCore.QThread):
                             self._handle_client_register(event)
                         elif topic == "UNREGISTER":
                             self._handle_client_unregister(event)
+                        elif topic == "CLIENT_HEARTBEAT":
+                            self._handel_client_heartbeat(event)
                         
                     except Exception as e:
                         print(f'Error processing client event: {e}')
@@ -394,11 +440,13 @@ class ZMQSERVER(QtCore.QThread):
                         except:
                             pass
                 now = time.time()
-                if now - self.last_heartbeat >= self.heartbeat_interval:
+                if now - self.last_heartbeat >= self.heartbeat_interval: # on envoie au client un hearbeat du serveur 
                     # print('Sending HEARTBEAT', now - self.last_heartbeat )
                     self.pub_socket.send_string("HEARTBEAT", zmq.SNDMORE)
                     self.pub_socket.send_json({"timestamp": now})
                     self.last_heartbeat = now
+                
+                self._check_client_timeouts(now) # verifier client inactifs (beatheart client)
 
         except Exception as e:
             print(f'Exception in ZMQ server: {e}')
@@ -406,14 +454,44 @@ class ZMQSERVER(QtCore.QThread):
             self.sub_socket.close()
             self.pub_socket.close()
             self.context.term()
-    
+
+    def _handel_client_heartbeat(self,event):
+        #print('nouveau heat beat du client')
+        # enregistrement hearbeat nouveau client"
+        client_id = event.get('client_id')
+        if client_id:
+            self.client_last_seen[client_id] = time.time()
+
+    def _check_client_timeouts(self,curent_time):
+        # verifie quels client n'a pas envoyer de heratbeat
+        disconnected_clients = []
+        client_id = None
+        for client_id, last_seen in list(self.client_last_seen.items()):
+            if curent_time-last_seen > self.client_timeout:
+                disconnected_clients.append(client_id)
+        
+                 # supprime les client deconnectés
+        
+                if client_id:
+                    self.client_last_seen.pop(client_id,None)
+                    print('client deconnecté',client_id)
+                    # supprime l'ui du client
+                    label, checkbox, Hcam, pathBox, buttonPath = self.client_widget.pop(client_id)
+                    label.deleteLater()
+                    checkbox.deleteLater()
+                    pathBox.deleteLater()
+                    buttonPath.deleteLater() 
+                    #self._remove_client_ui(client_id)
+
+            # QtCore.QTimer.singleShot(1000, lambda cid=client_id: self._remove_client_ui(cid))
+
     def _handle_client_register(self, event):
         """Gérer l'enregistrement d'un nouveau client"""
         client_id = event.get('client_id')
         name_visu = event.get('name', 'Unknown')
         
         print(f'New client registering: {name_visu} ({client_id})')
-        
+        self.client_last_seen[client_id] = time.time()
         # Créer l'interface utilisateur
         QtCore.QMetaObject.invokeMethod(
             self,
@@ -451,7 +529,7 @@ class ZMQSERVER(QtCore.QThread):
         name = event.get('name', 'Unknown')
         
         print(f'Client unregistering: {name} ({client_id})')
-        
+        self.client_last_seen.pop(client_id,None)
         if client_id in self.client_widget:
             QtCore.QMetaObject.invokeMethod(
                 self,
@@ -542,6 +620,7 @@ class ZMQSERVER(QtCore.QThread):
     @QtCore.pyqtSlot(str)
     def _remove_client_ui(self, client_id):
         """Supprimer l'interface utilisateur du client"""
+        
         if client_id in self.client_widget:
             label, checkbox, Hcam, pathBox, buttonPath = self.client_widget.pop(client_id)
             label.deleteLater()
@@ -592,7 +671,7 @@ class ZMQSERVER(QtCore.QThread):
         """Arrêter le serveur"""
         print('Closing ZMQ server')
         self.isRunning = False
-        time.sleep(0.2)
+        time.sleep(0.5)
         print('ZMQ server stopped')
 
 
@@ -743,7 +822,7 @@ class CLIENTTHREAD(QtCore.QThread):
         print('start new thread client TCPIP')
         # Émettre signal pour ajouter le client
         if self.parent:
-            print('emeit new client TCPIP')
+            print('emit new client TCPIP')
             self.signalClientThread_TCPIP.emit([self.client_id, self.client_adresse, None])
         try: 
             while True:
@@ -753,20 +832,20 @@ class CLIENTTHREAD(QtCore.QThread):
                     data = self.client_socket.recv(1024)
                     msgReceived = data.decode()
                     if not msgReceived:
-                        print('pas de message')
+                        # print('pas de message')
                         self.signalClientThread_TCPIP.emit([self.client_id,0,0])
                         break
                     else: 
                             try:
                                 msgsplit = msgReceived.split(',')
                                 msgsplit = [msg.strip() for msg in msgsplit]
-                               
+                                # print(msgReceived)
                                 if len(msgsplit) == 1 :
                                     msgReceived = msgsplit[0]
                                     if msgReceived == 'numberShoot?':
                         
                                         number = str(self.parent.parent.old_value) # send the shoot nuber not the n+1
-                                            # print('server number',number)
+                                        # print('server number',number)
                                         self.client_socket.send(number.encode())
         
                                     elif msgReceived == 'idShoot?':
