@@ -21,8 +21,14 @@ import time
 import sys
 import os
 import qdarkstyle
-import nidaqmx #  https://github.com/ni/nidaqmx-python
-import moteurRSAIFDB
+try:
+    import nidaqmx #  https://github.com/ni/nidaqmx-python
+    IDAQMX_AVAILABLE = True
+except Exception as e:
+    print(f'nidaqmx not installed: {e}')
+    IDAQMX_AVAILABLE = False
+
+
 import uuid
 import zmq
 
@@ -48,22 +54,32 @@ class SERVERGUI(QWidget):
         
         hostname = _socket.gethostname()
         self.IPAddr = _socket.gethostbyname(hostname)
+        try:
+            import moteurRSAIFDB
+            self.db = moteurRSAIFDB.FirebirdConnect()  # Connect to firebird database 
+            db_connected = self.db.ConnectToDB()
+            if not db_connected:
+                raise ConnectionError('Could not connect to Firebird database.')
+        except Exception as e:
+            print('ii')
+            import moteurRSAIFDB_dummy as moteurRSAIFDB
+            self.db = moteurRSAIFDB.FirebirdConnect()  # Connect to dummy firebird database 
+            print(e)
         
         #  connection base de données RSAI
-        self.cursor = moteurRSAIFDB.con.cursor()
-        self.listRack = moteurRSAIFDB.rEquipmentList()
+        self.cursor = self.db.con.cursor()
+        self.listRack = self.db.rEquipmentList()
         self.rackName = []
         self.nbMotorRack = [] # npb de moteur dans les racks 
         for IP in self.listRack:
-            self.rackName.append(moteurRSAIFDB.nameEquipment(IP))
+            self.rackName.append(self.db.nameEquipment(IP))
         self.listMotor = []
         for IPadress in self.listRack:
-            MList = moteurRSAIFDB.listMotorName(IPadress)
+            MList = self.db.listMotorName(IPadress)
             self.nbMotorRack.append(len(MList))
             self.listMotor.append(MList)
         print(self.nbMotorRack)
-        
-
+    
         self.setup()
         self.actionButton()
         self.setWindowTitle('Shot number Server ')
@@ -80,10 +96,11 @@ class SERVERGUI(QWidget):
         self.serTCP.signalServerTCPIPThread.connect(self.UpdateListClientTCPIP)
 
         # start daq from NI ( to collect trigger) 
-        self.daq = NIDAQ(self)
-        self.daq.TRIGSHOOT.connect(self.ChangeTrig)
-        self.daq.setZero()
-        self.daq.start()
+        if IDAQMX_AVAILABLE:
+            self.daq = NIDAQ(self)
+            self.daq.TRIGSHOOT.connect(self.ChangeTrig)
+            self.daq.setZero()
+            self.daq.start()
 
         foldername = time.strftime("%Y_%m_%d")  # Save in a new folder with the time as namefile
         filename = 'SauvegardeMot' + time.strftime("%Y_%m_%d")
@@ -160,7 +177,7 @@ class SERVERGUI(QWidget):
         for name in self.rackName: # create QCheckbox for each rack
             self.box.append(checkBox(name=str(name), ip=self.listRack[i], parent=self))
             hboxRack.addWidget(self.box[i])
-            i+=1
+            i += 1
 
         self.vbox.addLayout(hboxRack)
         self.vCamBox = QVBoxLayout()
@@ -198,18 +215,18 @@ class SERVERGUI(QWidget):
     def allPosition(self, IpAdress):
         listPosi = []
         listNameMotor = []
-        IdEquipt = moteurRSAIFDB.rEquipmentIdNbr(IpAdress)
+        IdEquipt = self.db.rEquipmentIdNbr(IpAdress)
         index = self.listRack.index(IpAdress)
-        nbMot=self.nbMotorRack[index]
+        nbMot = self.nbMotorRack[index]
         for NoMotor in range(1, nbMot+1):
             # print(NoMotor)
-            NoMod = moteurRSAIFDB.getSlotNumber(NoMotor)
-            NoAxis = moteurRSAIFDB.getAxisNumber(NoMotor)
-            PkIdTbBoc = moteurRSAIFDB.readPkModBim2BOC(self.cursor, IdEquipt, NoMod, NoAxis, FlgReadWrite=1)
-            pos = moteurRSAIFDB.getValueWhere1ConditionAND(self.cursor, "TbBim2BOC_1Axis_R", "PosAxis", "PkId", str(PkIdTbBoc))
-            step = moteurRSAIFDB.rStepperParameter(self.cursor, PkIdTbBoc, NoMotor, 1106)
+            NoMod = self.db.getSlotNumber(NoMotor)
+            NoAxis = self.db.getAxisNumber(NoMotor)
+            PkIdTbBoc = self.db.readPkModBim2BOC(self.cursor, IdEquipt, NoMod, NoAxis, FlgReadWrite=1)
+            pos = self.db.getValueWhere1ConditionAND(self.cursor, "TbBim2BOC_1Axis_R", "PosAxis", "PkId", str(PkIdTbBoc))
+            step = self.db.rStepperParameter(self.cursor, PkIdTbBoc, NoMotor, 1106)
             listPosi.append(pos*step)
-            name = moteurRSAIFDB.rStepperParameter(self.cursor, PkIdTbBoc, NoMotor, 2)
+            name = self.db.rStepperParameter(self.cursor, PkIdTbBoc, NoMotor, 2)
             listNameMotor.append(name)
             # print('list posi',listPosi)
      
@@ -240,8 +257,26 @@ class SERVERGUI(QWidget):
         pathMain = self.pathBoxMain.text()
         folderMot = pathMain + '/' + foldernameMot
         print("folder '%s' " % folderMot)
-        if not os.path.isdir(folderMot):
-            os.mkdir(folderMot)
+        try:
+            if not os.path.isdir(folderMot):
+                parent = os.path.dirname(folderMot)
+                if parent and os.path.exists(parent):
+                    # Le parent existe, on peut créer le dossier
+                    os.mkdir(folderMot) 
+                else:
+                    # Le parent n'existe pas (ex: lecteur réseau déconnecté)
+                    raise OSError(f"Parent directory does not exist: {parent}")
+                
+        except (OSError, PermissionError, TypeError):
+            # Chemin invalide ou inaccessible, utiliser le dossier du programme
+            
+            folderMot = os.path.join(str(self.p.parent), 'Data')
+            try:
+                if not os.path.isdir(folderMot):
+                    os.mkdir(folderMot)
+            except Exception as e:
+                print('Could not create folder for motor position saving:', e)
+
         filenameMot = 'MotorsPosition_' + time.strftime("%Y_%m_%d")
         self.fichier = folderMot + self.sepa + filenameMot + '.txt'
         self.file = open(self.fichier, "a")
@@ -252,6 +287,17 @@ class SERVERGUI(QWidget):
         filenameMot = 'MotorsPosition_' + time.strftime("%Y_%m_%d")
         fichierHDF5 = folderMot + self.sepa + filenameMot + '.hdf5'
     
+        rack_data = {}
+        for b in self.box:
+            if b.isChecked():
+                listPosi, listNameMotor = self.allPosition(b.ip)  # todo demander a la base toute les positions et que pour une IP
+                rack_name = self.db.nameEquipment(b.ip)
+                rack_data[b.ip] = {
+                    'positions': listPosi,
+                    'names': listNameMotor,
+                    'rack_name': rack_name
+                }
+        
         # Ouvrir/créer le fichier HDF5
         with h5py.File(fichierHDF5, 'a') as hdf_file:
             # Créer un groupe pour ce tir avec timestamp
@@ -264,35 +310,28 @@ class SERVERGUI(QWidget):
             shoot_group.attrs['timestamp'] = timestamp
             shoot_group.attrs['date'] = time.strftime("%Y/%m/%d @ %H:%M:%S")
             
-            # Sauvegarder les positions des moteurs hdf5 
-            for b in self.box:
-                if b.isChecked():
-                    listPosi, listNameMotor = self.allPosition(b.ip)
-                    
-                    # Créer un sous-groupe pour ce rack
-                    rack_name = moteurRSAIFDB.nameEquipment(b.ip)
-                    rack_group = shoot_group.create_group(f"Rack_{rack_name}")
-                    rack_group.attrs['ip'] = b.ip
-                    
-                    # Sauvegarder chaque moteur
-                    for i, (mot, pos) in enumerate(zip(listNameMotor, listPosi)):
-                        motor_dataset = rack_group.create_dataset(
-                            f"motor_{i}_{mot}", 
-                            data=pos
-                        )
-                        motor_dataset.attrs['name'] = mot
-                        motor_dataset.attrs['position'] = pos
+            # Sauvegarder les positions des moteurs en HDF5
+            for ip, data in rack_data.items():
+                # Créer un sous-groupe pour ce rack
+                rack_group = shoot_group.create_group(f"Rack_{data['rack_name']}")
+                rack_group.attrs['ip'] = ip
+                
+                # Sauvegarder chaque moteur
+                for i, (mot, pos) in enumerate(zip(data['names'], data['positions'])):
+                    motor_dataset = rack_group.create_dataset(
+                        f"motor_{i}_{mot}", 
+                        data=pos
+                    )
+                    motor_dataset.attrs['name'] = mot
+                    motor_dataset.attrs['position'] = pos
 
-        for b in self.box:
-            if b.isChecked():
-                listPosi, listNameMotor = self.allPosition(b.ip)
-                i = 0
-                self.file.write('Rack: ' + moteurRSAIFDB.nameEquipment(b.ip) + "  " + str(b.ip)+ "\n" )
-                for mot in listNameMotor:
-                    self.file.write(str(mot) + ' : ' + str(listPosi[i]) + "\n")
-                    i = i+1
-
-            self.file.write(' ' + "\n") 
+        # Écrire dans le fichier texte
+        for ip, data in rack_data.items():
+            self.file.write('Rack: ' + data['rack_name'] + "  " + str(ip) + "\n")
+            for i, (mot, pos) in enumerate(zip(data['names'], data['positions'])):
+                self.file.write(str(mot) + ' : ' + str(pos) + "\n")
+            self.file.write(' ' + "\n")
+            
         self.file.write('' + "\n")      
         self.file.close()
         
@@ -307,7 +346,7 @@ class SERVERGUI(QWidget):
         self.ser.publish_shoot_event(self.old_value)
 
     def pathBoxChanged(self):
-        print(self.pathMain.text())
+        #  print(self.pathMain.text())
         self.confTir.setValue('TIR'+'/pathMain', self.pathMain)
         self.ser.update_all_client_paths(base_path=self.pathMain)
 
@@ -324,8 +363,8 @@ class SERVERGUI(QWidget):
     #     self.ChangeTrig(1)
 
     def UpdateListClientTCPIP(self, clientlist):
-        print('update client list TCPIP', clientlist)
-        print('number of client TCPIP connected : ', len(clientlist))
+        # print('update client list TCPIP', clientlist)
+        #  print('number of client TCPIP connected : ', len(clientlist))
         # Convertir le dict en string lisible
         if len(clientlist) == 0:
             text = "Aucun client connecté"
@@ -341,8 +380,9 @@ class SERVERGUI(QWidget):
         """ when closing the window
         """
         self.ser.stopThread()
-        moteurRSAIFDB.closeConnection()
-        self.daq.stopThread()
+        self.db.closeConnection()
+        if IDAQMX_AVAILABLE:
+            self.daq.stopThread()
         self.serTCP.stopThread()
         time.sleep(2)
         event.accept()
@@ -425,10 +465,10 @@ class ZMQSERVER(QtCore.QThread):
                 
                 # Gérer les requêtes REP (GET_SHOOT_NUMBER)
                 if self.rep_socket in socks and socks[self.rep_socket] == zmq.POLLIN:
-                    print('client  request ')
+                    #  print('client  request ')
                     try:
                         request = self.rep_socket.recv_string()
-                        print('request : ', request)
+                        #  print('request : ', request)
                         if request == 'shot:':
                             # Répondre avec le numéro de tir actuel
                             response = {
@@ -448,7 +488,8 @@ class ZMQSERVER(QtCore.QThread):
                         # Envoyer une réponse d'erreur pour ne pas bloquer le client
                         try:
                             self.rep_socket.send_json({'error': str(e)})
-                        except:
+                        except Exception as e:
+                            print(f'Error sending error response: {e}')
                             pass
                 now = time.time()
                 if now - self.last_heartbeat >= self.heartbeat_interval: # on envoie au client un hearbeat du serveur 
@@ -485,7 +526,7 @@ class ZMQSERVER(QtCore.QThread):
         
                 if client_id:
                     self.client_last_seen.pop(client_id,None)
-                    print('client deconnecté',client_id)
+                    #  print('client deconnecté',client_id)
                     # supprime l'ui du client
                     label, checkbox, Hcam, pathBox, buttonPath = self.client_widget.pop(client_id)
                     label.deleteLater()
