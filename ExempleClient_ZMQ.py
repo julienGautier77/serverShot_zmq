@@ -23,7 +23,7 @@ class THREADCLIENT(QtCore.QThread):
 
         p = pathlib.Path(__file__)
         self.conf = QtCore.QSettings(str(p.parent / 'confServer.ini'), QtCore.QSettings.Format.IniFormat)
-        self.name ="Cleint test"
+        self.name ="Client test"
         
         # Lire la configuration
         self.serverHost = str(self.conf.value(self.name + "/server"))
