@@ -29,6 +29,12 @@ except Exception as e:
     IDAQMX_AVAILABLE = False
 
 
+try:
+    from serverShotBridge import ServerShotBridge
+    IS_LHC = True
+except Exception as e:
+    IS_LHC = False
+
 import uuid
 import zmq
 
@@ -113,6 +119,16 @@ class SERVERGUI(QWidget):
         if not os.path.isdir(folder):
             os.mkdir(folder)
         self.fichier = folder + self.sepa + filename + '.txt'
+
+        if IS_LHC:
+            self.bridge = ServerShotBridge(
+                name="Shot Number Bridge",
+                address="tcp://*:7891",
+                pub_port=self.pub_port,
+                # sub_port=self.sub_port,
+                rep_port=self.rep_port
+            )
+            self.bridge.start()
 
     def setup(self):
         
@@ -383,6 +399,8 @@ class SERVERGUI(QWidget):
         self.db.closeConnection()
         if IDAQMX_AVAILABLE:
             self.daq.stopThread()
+        if IS_LHC:
+            self.bridge.stop()
         self.serTCP.stopThread()
         time.sleep(2)
         event.accept()

@@ -12,9 +12,9 @@ class ServerShotBridge(QtCore.QThread):
     def __init__(self,
                  name: str,
                  address: str,
-                 pub_port: int,  # This is the PUB port of SERVERGUI/ZMQSERVER (5009)
-                 sub_port: int,  # This is the SUB port of SERVERGUI/ZMQSERVER (5010)
-                 bridge_pub_port: int,  # This is the port for the bridge's own PUB socket (e.g., 5012)
+                 pub_port: int,  # publication port from the ZMQ shot server
+                 rep_port: int,
+                #  bridge_pub_port: int,  # This is the port for the bridge's own PUB socket (e.g., 5012)
                  empty_data_after_get: bool=False,
                  parent=None):
 
@@ -29,9 +29,8 @@ class ServerShotBridge(QtCore.QThread):
             empty_data_after_get=empty_data_after_get
         )
 
-        self.pub_port = pub_port  # SERVERGUI/ZMQSERVER PUB port (5009)
-        self.sub_port = sub_port  # SERVERGUI/ZMQSERVER SUB port (5010)
-        self.bridge_pub_port = bridge_pub_port  # Bridge's own PUB port (5012)
+        self.pub_port = pub_port
+        self.rep_port = rep_port
         self.is_running = True
 
         # ZMQ context
@@ -43,26 +42,50 @@ class ServerShotBridge(QtCore.QThread):
         self.sub_socket.setsockopt_string(zmq.SUBSCRIBE, "SHOOT")
         self.sub_socket.setsockopt_string(zmq.SUBSCRIBE, "HEARTBEAT")
 
-        # PUB socket for PUB/SUB system (bind to bridge's own port)
-        self.pub_socket = self.context.socket(zmq.PUB)
-        # self.pub_socket.setsockopt(zmq.SNDTIMEO, 1000)
-        self.pub_socket.setsockopt(4, 1)
-        self.pub_socket.bind(f"tcp://*:{bridge_pub_port}")
+        # REQ socket for requesting the current shot number (on first connection)
+        self.req_socket = self.context.socket(zmq.REQ)
+        self.req_socket.connect(f"tcp://localhost:{rep_port}")
 
         self.server_lhc.start()
         print(f"Server bridge running on {self.server_lhc.address_for_client}")
+        self._request_initial_shot_number()
+
+
+    def _request_initial_shot_number(self):
+        """Request the current shot number from the ZMQSERVER and set it in server_lhc."""
+        try:
+            self.req_socket.send_string('shot:')
+            response = self.req_socket.recv_string()
+            initial_shot_number = int(response)
+            print(f"Initial shot number received: {initial_shot_number}")
+            self.server_lhc.set_data({
+                "shot_number": initial_shot_number,
+                "timestamp": time.strftime("%Y%m%d_%H%M%S"),
+            })
+        except Exception as e:
+            print(f"Error requesting initial shot number: {e}")
+
 
     def run(self):
         poller = zmq.Poller()
         poller.register(self.sub_socket, zmq.POLLIN)
 
-        while self.is_running:
-            socks = dict(poller.poll(100))
-            if self.sub_socket in socks:
-                topic = self.sub_socket.recv_string()
-                event = self.sub_socket.recv_json()
-                if topic == "SHOOT":
-                    self._handle_shoot_event(event)
+        try:
+            while self.is_running:
+                socks = dict(poller.poll(100))
+                if self.sub_socket in socks:
+                    topic = self.sub_socket.recv_string()
+                    event = self.sub_socket.recv_json()
+                    if topic == "SHOOT":
+                        self._handle_shoot_event(event)
+        except Exception as e:
+            print(f"Exception in ServerShotBridge: {e}")
+        finally:
+            self.sub_socket.close()
+            self.req_socket.close()
+            self.context.term()
+            self.server_lhc.stop()
+
 
     def _handle_shoot_event(self, event):
         """
@@ -79,16 +102,8 @@ class ServerShotBridge(QtCore.QThread):
         }
         self.server_lhc.set_data(new_data)
 
-        # Optionally, publish the event to the bridge's own PUB socket
-        self.pub_socket.send_string("SHOT_DATA", zmq.SNDMORE)
-        self.pub_socket.send_json(new_data)
-
     def stop(self):
         self.is_running = False
-        self.server_lhc.stop()
-        self.sub_socket.close()
-        self.pub_socket.close()
-        self.context.term()
 
 
 if __name__ == "__main__":
@@ -97,8 +112,7 @@ if __name__ == "__main__":
         "Shot bridge test",
         "tcp://*:7891",  # LAPLACE-LHC server address
         5009,            # SERVERGUI/ZMQSERVER PUB port (connect)
-        5010,            # SERVERGUI/ZMQSERVER SUB port (not used here, but for completeness)
-        5012,            # Bridge's own PUB port (bind)
+        5008             # SERVERGUI/ZMQSERVER REP port (connect)
     )
     bridge.start()
     try:
